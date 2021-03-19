@@ -1,7 +1,7 @@
 # RMD160-Sort
 RIPEMD160 hash binary file sorting.
 
-The codes are copied from [keyhunt](https://github.com/albertobsd/keyhunt) by albertobsd
+The codes are copied from [keyhunt](https://github.com/albertobsd/keyhunt) by albertobsd. Thank you for his wonderful works.
 
 ## Usage
 ```
