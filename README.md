@@ -9,4 +9,4 @@ Usage: RMD160-Sort.exe in_file out_file
 ```
 
 ## License
-KeyHunt-Cuda is licensed under GPLv3.
+RMD160-Sort is licensed under GPLv3.
